@@ -20,7 +20,7 @@ To run the app
 
 This will kick off the FastAPI app and you should get a prompt on how to open it in a new browser tab.  Codespaces will pick that for you.
 
-If Pylint complains about unable to find imports, you might need to make sure vscode is using the pylint installed with the virtual environment and not the default one.  To do this:
+If Pylint complains about unable to find imports, you might need to make sure vscode is using the pylint installed with the virtual environment and not the default one.  Found instructions [here](https://github.com/orgs/community/discussions/46885). To do this:
 
 1. Hit "ctrl" + ","
 2. Search for "pylint import"
