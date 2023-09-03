@@ -27,3 +27,6 @@ If Pylint complains about unable to find imports, you might need to make sure vs
 3. Change dropdpwn to "fromEnvironment"
 4. Click on the Codespaces icon in the bottom left and click "Rebuild Container"
 
+# Should we focus on system design and Architecture first?
+
+
